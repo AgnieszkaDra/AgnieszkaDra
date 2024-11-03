@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Logo](https://github.com/AgnieszkaDra/AgnieszkaDra/blob/main/Agnieszka.png)
+![Logo](https://raw.githubusercontent.com/AgnieszkaDra/AgnieszkaDra/main/Agnieszka.png)
 <!--
 **AgnieszkaDra/AgnieszkaDra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
