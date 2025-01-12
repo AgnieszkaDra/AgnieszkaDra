@@ -1,8 +1,8 @@
 ## Hi there 👋
 ![Logo](https://raw.githubusercontent.com/AgnieszkaDra/AgnieszkaDra/main/Agnieszka.png)
 
-- 🔭 I’m currently working on refactoring projects in my portfolio, enhance README profile
-- 🌱 I’m currently learning Figma, OOP
+- 🔭 I’m currently working on portfolio. 
+- 🌱 I’m currently learning TypeScript, Make
 - 👯 I’m looking to collaborate on useful app. 
 - 🤔 I’m looking for help with find work
 - 💬 Ask me about how to not give up
