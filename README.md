@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Logo](https://raw.githubusercontent.com/AgnieszkaDra/AgnieszkaDra/main/Agnieszka.png)
+
 
 - 🔭 I’m currently working on Shop-TS project. 
 - 🌱 I’m currently learning TypeScript
