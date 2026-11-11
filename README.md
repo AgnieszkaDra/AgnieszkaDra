@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on Shop-TS project. 
+- 🔭 I’m currently working on sales-navigator project. 
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on useful app. 
 - 💬 Ask me about how to not give up
